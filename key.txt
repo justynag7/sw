@@ -1,0 +1,15 @@
+Identyfikator urządzenia
+
+DeviceNewID
+
+Klucz podstawowy
+BdB9Tf+0g3etCikiGdAUfzFazp38UllzYrd9hXSIg7w=
+
+Klucz pomocniczy
+yxibWxp1UH4kGCx9BBGJQca35LOhJpEKE/1po4u8f/U=
+
+Podstawowe parametry połączenia
+HostName=rasb-test.azure-devices.net;DeviceId=DeviceNewID;SharedAccessKey=BdB9Tf+0g3etCikiGdAUfzFazp38UllzYrd9hXSIg7w=
+
+Dodatkowe parametry połączenia
+HostName=rasb-test.azure-devices.net;DeviceId=DeviceNewID;SharedAccessKey=yxibWxp1UH4kGCx9BBGJQca35LOhJpEKE/1po4u8f/U=
